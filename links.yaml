@@ -1,0 +1,27 @@
+# point to your own profile pic you want to display in your link.my.bio
+picture: "/static/Tirso.jpg"
+
+# it will appear just below your picture.
+name: "Tirso Córdova"
+# short auto biography about yourself
+shortbio: "Computer Science Student"
+
+# 'links' will be an array of any amount of links you want your followers to discover, notice that the name will be mere descriptive (it is not necesarily functional.)
+# each link will have 3 attributes:
+# - enable: this will tell your app to display/hide this link in your "link.my.bio"
+# - link: this is the link you want to "redirect" your users to, when they click on the button
+# - description: this will appear as the text in the button of your link
+
+links:
+    - 0:
+        enable: True
+        link: https://www.facebook.com/tirso.cb
+        description: "check my facebook"
+    - 1:
+        enable: True
+        link: "https://twitter.com/tirsocb1"
+        description: "I'm quite funny on twitter "
+    - 2:
+        enable: True
+        linkinsta: https://www.instagram.com/tirso.cordova/
+        description: "check out my photos :camera:"

@@ -7,6 +7,9 @@ with open("links.yaml", 'r',encoding='utf-8') as stream:
         info = yaml.safe_load(stream)
     except yaml.YAMLError as exc:
         print(exc)
+
+
+
 environment = os.getenv("ENVIRONMENT", "development")
 
 app = Flask(__name__)

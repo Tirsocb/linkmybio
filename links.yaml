@@ -12,16 +12,6 @@ shortbio: "Computer Science Student"
 # - link: this is the link you want to "redirect" your users to, when they click on the button
 # - description: this will appear as the text in the button of your link
 
-links:
-    - 0:
-        enable: True
-        link: https://www.facebook.com/tirso.cb
-        description: "check my facebook"
-    - 1:
-        enable: True
-        link: "https://twitter.com/tirsocb1"
-        description: "I'm quite funny on twitter "
-    - 2:
-        enable: True
-        linkinsta: https://www.instagram.com/tirso.cordova/
-        description: "check out my photos :camera:"
+linkinsta:  "https://www.instagram.com/tirso.cordova/"
+linkface: "https://www.facebook.com/tirso.cb"
+linktweet: "https://twitter.com/tirsocb1"

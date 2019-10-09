@@ -1,5 +1,5 @@
 # point to your own profile pic you want to display in your link.my.bio
-picture: "/static/Tirso.jpg"
+picture: "static/Tirso.jpg"
 
 # it will appear just below your picture.
 name: "Tirso Córdova"
